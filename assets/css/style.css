@@ -41,12 +41,9 @@ h1 {
 
 video {
   max-width: 100%;
+  border-radius: 2%;
 }
 
-main img {
-  border-radius: 2%;
-  max-width: 100%;
-}
 #credit {
   display: block;
   margin-inline: inherit;
