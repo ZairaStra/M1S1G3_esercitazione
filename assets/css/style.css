@@ -52,3 +52,18 @@ main img {
   font-family: inherit;
   margin: 5px;
 }
+.featured {
+  border-left: solid thin;
+  border-color: #ffd877;
+  padding-left: 15px;
+}
+
+main div h4 {
+  color: #c26438;
+  margin-bottom: 0;
+}
+
+main div a {
+  font-family: inherit;
+  color: #107777;
+}
