@@ -43,7 +43,7 @@ main img {
   border-radius: 2%;
   max-width: 100%;
 }
-.fotocred {
+#credit {
   display: block;
   margin-inline: inherit;
   text-align: center;
@@ -63,7 +63,19 @@ main div h4 {
   margin-bottom: 0;
 }
 
-main div a {
+.link {
   font-family: inherit;
   color: #107777;
+  text-align: inherit;
+}
+
+.articletit {
+  border-bottom: solid thin;
+  border-color: #c4f3f2;
+  margin-top: 10px;
+  padding-top: 20px;
+}
+
+#bold {
+  font-weight: bold;
 }
