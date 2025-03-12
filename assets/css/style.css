@@ -25,3 +25,30 @@ header div span {
   color: #125856;
   margin-top: 15px;
 }
+
+main {
+  max-width: 40%;
+  margin: auto;
+}
+
+h1 {
+  color: #333333;
+  text-align: center;
+  margin-inline: inherit;
+  padding-top: 40px;
+  padding-bottom: 15px;
+}
+
+main img {
+  border-radius: 2%;
+  max-width: 100%;
+}
+.fotocred {
+  display: block;
+  margin-inline: inherit;
+  text-align: center;
+  text-decoration: none;
+  color: #999999;
+  font-family: inherit;
+  margin: 5px;
+}
