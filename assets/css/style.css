@@ -69,6 +69,10 @@ main div h4 {
   text-align: inherit;
 }
 
+ul {
+  line-height: 1.8;
+}
+
 .articletit {
   border-bottom: solid thin;
   border-color: #c4f3f2;
